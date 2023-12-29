@@ -18,3 +18,9 @@ export const WINNER_COMBINATIONS = [
     [0, 4, 8],
     [2, 4, 6],
 ]
+
+export const TURNS_COLORS = {
+    RED: '🔴',
+    YELLOW: '🟡',
+}
+
